@@ -1,5 +1,5 @@
 +++
-date = "2016-03-20T18:19:23-04:00"
+date = "2016-03-19T18:27:53-04:00"
 draft = false
 title = "firstpost"
 tags = ["python", "testing"]
@@ -7,12 +7,4 @@ tags = ["python", "testing"]
 
 This is my very first post using [Hugo](https://gohugo.io) static site generator!
 
-
-Here is a code sample:
-{{< highlight python >}}
-from julip.JulipPluginManager import JulipPluginManager
-
-
-plugin_manager = julip.JulipPluginManager()
-{{< /highlight >}}
-
+I'll plan to actually start posting content here sometime soon...

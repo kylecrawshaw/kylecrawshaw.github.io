@@ -42,5 +42,17 @@ PyObjC
 </description>
     </item>
     
+    <item>
+      <title>firstpost</title>
+      <link>https://kylecrawshaw.github.io/2016/03/19/firstpost/</link>
+      <pubDate>Sat, 19 Mar 2016 18:27:53 -0400</pubDate>
+      
+      <guid>https://kylecrawshaw.github.io/2016/03/19/firstpost/</guid>
+      <description>&lt;p&gt;This is my very first post using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator!&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll plan to actually start posting content here sometime soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

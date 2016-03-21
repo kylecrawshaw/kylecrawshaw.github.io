@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One on IT - All The Things</title>
-    <link>http://replace-this-with-your-hugo-site.com/tags/one/</link>
+    <link>https://kylecrawshaw.github.io/tags/one/</link>
     <description>Recent content in One on IT - All The Things</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2016 Kyle Crawshaw.</copyright>
     <lastBuildDate>Sun, 20 Mar 2016 13:32:11 -0400</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kylecrawshaw.github.io/tags/one/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about -- Kyle Crawshaw</title>
-      <link>http://replace-this-with-your-hugo-site.com/about/</link>
+      <link>https://kylecrawshaw.github.io/about/</link>
       <pubDate>Sun, 20 Mar 2016 13:32:11 -0400</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/about/</guid>
+      <guid>https://kylecrawshaw.github.io/about/</guid>
       <description>&lt;p&gt;
 &lt;figure class=&#34;headerimage&#34;&gt;
     
-        &lt;img src=&#34;http://replace-this-with-your-hugo-site.com/kyle.jpg&#34; /&gt;
+        &lt;img src=&#34;https://kylecrawshaw.github.io/kyle.jpg&#34; /&gt;
     
     
     &lt;figcaption&gt;

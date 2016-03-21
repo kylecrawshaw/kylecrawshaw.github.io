@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on IT - All The Things</title>
+    <link>http://replace-this-with-your-hugo-site.com/tags/python/</link>
+    <description>Recent content in Python on IT - All The Things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>(c) 2016 Kyle Crawshaw.</copyright>
+    <lastBuildDate>Sun, 20 Mar 2016 18:19:23 -0400</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>firstpost</title>
+      <link>http://replace-this-with-your-hugo-site.com/2016/03/20/firstpost/</link>
+      <pubDate>Sun, 20 Mar 2016 18:19:23 -0400</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/2016/03/20/firstpost/</guid>
+      <description>&lt;p&gt;This is my very first post using &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; static site generator!&lt;/p&gt;
+
+&lt;p&gt;Here is a code sample:
+&lt;div class=&#34;highlight&#34; style=&#34;background: #202020&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #6ab825; font-weight: bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color: #447fcf; text-decoration: underline&#34;&gt;julip.JulipPluginManager&lt;/span&gt; &lt;span style=&#34;color: #6ab825; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #d0d0d0&#34;&gt;JulipPluginManager&lt;/span&gt;
+
+
+&lt;span style=&#34;color: #d0d0d0&#34;&gt;plugin_manager&lt;/span&gt; &lt;span style=&#34;color: #d0d0d0&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #d0d0d0&#34;&gt;julip.JulipPluginManager()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

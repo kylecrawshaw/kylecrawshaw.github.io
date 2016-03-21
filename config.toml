@@ -1,0 +1,49 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "IT - All The Things"
+pygmentsStyle = "native"
+pygmentsUseClasses = false
+canonifyurls = true
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Copyright
+copyright = "(c) 2016 Kyle Crawshaw."
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+    code = "/:slug/"
+
+[author]
+    name = "Kyle Crawshaw"
+
+[params]
+    brand = "KCrawshaw"
+    subtitle = ""
+
+    showRightSidebar = false 
+
+    highlight = "solarized_dark"
+
+    profilepic = "kyle.jpg"
+    github = "https://github.com/kylecrawshaw"
+    twitter = "https://twitter.com/kylecrawshaw"
+
+    [[params.navlinks]]
+    name = "About"
+    url = "about/"
+
+    [[params.navlinks]]
+    name = "Blog"
+    url = "/"
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []

@@ -1,0 +1,9 @@
+[about]
+    Name = "About"
+    IconClass = "fa-info-circle"
+    URL = "/about-me"
+
+[posts]
+    Name = "Blog"
+    IconClass = "fa-info-circle"
+    URL = "/"
